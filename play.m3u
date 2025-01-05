@@ -2864,3 +2864,18 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
 http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1, Vídeo 1
+https://cdn77-vid.xvideos-cdn.com/X-VS30HYR3CCdWbZxacBig==,1736125018/videos/hls/39/09/9d/39099d6159ae4e21e3acdb19c1f9071f-1/hls.m3u8
+#EXTINF:-1, Vídeo 2
+https://u3y8v8u4.aucdn.net/library/192082/0a41a1a314c64eb3c4fea6732d12253b101cb100.mp4
+#EXTINF:-1, Vídeo 3
+https://cdn77-vid.xvideos-cdn.com/DUP2vkM35grG9hN_6RdA9Q==,1736125206/videos/hls/84/7a/25/847a25023fe826215c0ee293d2b7f47f/hls-480p.m3u8
+#EXTINF:-1, Vídeo 4
+https://cdn77-vid.xvideos-cdn.com/9a66CvVzCY-_p4HMQXkQVw==,1736125260/videos/hls/de/78/47/de784796162d08e1fa429307b514db91/hls-1080p-512fa.m3u8
+#EXTINF:-1, Vídeo 5
+https://u3y8v8u4.aucdn.net/library/192082/0a41a1a314c64eb3c4fea6732d12253b101cb100.mp4
+#EXTINF:-1, Vídeo 6
+https://cdn77-vid.xvideos-cdn.com/TyIQ06RTqenxnuuqWCJ4ug==,1736125361/videos/hls/53/f5/79/53f5793fd452e0882cd00c64830f14f0/hls-1080p-2eb16.m3u8
+#EXTINF:-1, Vídeo 7
+https://kv-h.phncdn.com/hls/videos/202301/13/423249432/720P_4000K_423249432.mp4/index-v1-a1.m3u8?hdnea=st=1736114607~exp=1736118207~hdl=-1~hmac=85b4b9e1923da00c871c53d9736e4727ddeb18fc
